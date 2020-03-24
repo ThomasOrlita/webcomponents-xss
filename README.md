@@ -4,4 +4,4 @@
 **Read the full article on my blog**: https://appio.link/javascript:alert('https')
 
 
-The original published component: https://www.webcomponents.org/element/ThomasOrlita/test2
+The original published component: https://www.webcomponents.org/element/ThomasOrlita/webcomponents-xss
